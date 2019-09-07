@@ -8,7 +8,7 @@ These are the addons I use while playing World of Warcraft
 | ---------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [ClassicThreatMeter][ClassicThreatMeter] | Allows party members to know if they are about to pull threat                            |
 | [GatherMate2][GatherMate2]               | Marks where you found (gathered) things from                                             |
-| [Leatrix_Plus][Leatrix_Plus]             | Auto-sell junk and auto-repair. Also shows vendor values and allows for gear comparisons |
+| [Leatrix_Plus][Leatrix_Plus]             | Auto-sell junk and auto-repair. Also shows vendor values |
 | [Mapster][Mapster]                       | Makes the map not full screen and removes "fog of war"                                   |
 | [MonkeyBuddy][MonkeyBuddy]               | GUI for configuring MonkeyQuest                                                          |
 | [MonkeyQuest][MonkeyQuest]               | Provides a enhanced quest tracker                                                        |
