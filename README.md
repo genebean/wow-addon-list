@@ -14,7 +14,7 @@ These are the addons I use while playing World of Warcraft
 | [MonkeyQuest][MonkeyQuest]               | Provides a enhanced quest tracker                                                        |
 | [NeatPlates][NeatPlates]                 | Replaces stock nameplates and shows icons related to quests                              |
 | [OmniCC Classic][OmniCC Classic]         | Shows a timer for cooldowns                                                              |
-| [OneBag3][OneBag3]                       | Makes bags easier to use                                                                 |
+| [onebag3-classic][onebag3-classic]                       | Makes bags easier to use                                                                 |
 | [Questie][Questie]                       | Shows where to find quest objectives and new quests                                      |
 | [TomTom][TomTom]                         | Helps navigate the world with an arrow                                                   |
 
@@ -26,6 +26,6 @@ These are the addons I use while playing World of Warcraft
 [MonkeyQuest]: https://www.curseforge.com/wow/addons/monkey-quest/files
 [NeatPlates]: https://www.curseforge.com/wow/addons/neatplates/files
 [OmniCC Classic]: https://www.wowinterface.com/downloads/info24989-OmniCCClassic.html#info
-[OneBag3]: https://www.wowinterface.com/downloads/info4207-OneBag3.html
+[onebag3-classic]: https://legacy-wow.com/classic-addons/onebag3-classic/
 [Questie]: https://www.curseforge.com/wow/addons/questie/files
 [TomTom]: https://www.curseforge.com/wow/addons/tomtom/files
